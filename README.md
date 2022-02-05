@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TejashSurti
-- 👀 I’m interested in Python, Machine Learning and Computer Vision for Manufacturing Solutions
+- 👀 I’m interested in building intelligent Manufacturing Software systems using Python, Machine Learning and Computer Vision.
 - 🌱 I’m currently learning Deep Learning and Computer Vision
 - 💞️ I’m looking to collaborate on build vision models to identify objects in an Image
 - 📫 How to reach me at tejas.16surti@gmail.com
